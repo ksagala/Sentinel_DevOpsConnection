@@ -1,0 +1,27 @@
+{
+  "defaultBranch": null,
+  "id": "71f64160-e72d-4bed-b1e3-8313f0f0cdcc",
+  "isDisabled": false,
+  "isFork": null,
+  "isInMaintenance": false,
+  "name": "Sentinel-TESTING",
+  "parentRepository": null,
+  "project": {
+    "abbreviation": null,
+    "defaultTeamImageUrl": null,
+    "description": null,
+    "id": "25e13730-218b-454a-8e40-63eab46aad06",
+    "lastUpdateTime": "2025-07-30T11:04:27.053Z",
+    "name": "Microsoft Sentinel Testing Environment",
+    "revision": 11,
+    "state": "wellFormed",
+    "url": "https://dev.azure.com/matejhrabalek/_apis/projects/25e13730-218b-454a-8e40-63eab46aad06",
+    "visibility": "private"
+  },
+  "remoteUrl": "https://matejhrabalek@dev.azure.com/matejhrabalek/Microsoft%20Sentinel%20Testing%20Environment/_git/Sentinel-TESTING",
+  "size": 0,
+  "sshUrl": "git@ssh.dev.azure.com:v3/matejhrabalek/Microsoft%20Sentinel%20Testing%20Environment/Sentinel-TESTING",
+  "url": "https://dev.azure.com/matejhrabalek/25e13730-218b-454a-8e40-63eab46aad06/_apis/git/repositories/71f64160-e72d-4bed-b1e3-8313f0f0cdcc",
+  "validRemoteUrls": null,
+  "webUrl": "https://dev.azure.com/matejhrabalek/Microsoft%20Sentinel%20Testing%20Environment/_git/Sentinel-TESTING"
+}
